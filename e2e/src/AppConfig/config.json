@@ -1,0 +1,5 @@
+{
+    "TestData": "Excel" ,
+    "Reporting" :"CucumberReports" ,
+    "Logger":"Log4js"
+}

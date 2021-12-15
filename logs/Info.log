@@ -1,0 +1,289 @@
+[2020-02-26T21:01:24.120] [INFO] Info - This is information Message
+[2020-02-26T21:04:42.597] [INFO] Info - This is information Message
+[2020-02-26T21:05:22.980] [ERROR] Info - expected 'Tour of Heroes' to equal 'Tour of Heroe'
+[2020-02-26T21:11:15.400] [INFO] Info - This is information Message
+[2020-02-26T21:11:16.027] [ERROR] Info - AssertionError: expected 'Tour of Heroes' to equal 'Tour of Heroe'
+    at World.<anonymous> (D:\AutoProject\angular-cucumber-demo\e2e\src\steps\app.steps.ts:68:58)
+    at step (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:136:27)
+    at Object.next (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:117:57)
+    at fulfilled (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:107:62)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  message: "expected 'Tour of Heroes' to equal 'Tour of Heroe'",
+  showDiff: true,
+  actual: 'Tour of Heroes',
+  expected: 'Tour of Heroe'
+}
+[2020-02-26T21:15:39.686] [INFO] Info - This is information Message
+[2020-02-26T21:15:40.364] [ERROR] Info - AssertionError: expected 'Tour of Heroes' to equal 'Tour of Heroe'
+    at World.<anonymous> (D:\AutoProject\angular-cucumber-demo\e2e\src\steps\app.steps.ts:68:58)
+    at step (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:136:27)
+    at Object.next (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:117:57)
+    at fulfilled (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:107:62)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  message: "expected 'Tour of Heroes' to equal 'Tour of Heroe'",
+  showDiff: true,
+  actual: 'Tour of Heroes',
+  expected: 'Tour of Heroe'
+}
+[2020-02-26T21:15:58.473] [INFO] Info - This is information Message
+[2020-02-26T21:15:59.100] [ERROR] Info - AssertionError: expected 'Tour of Heroes' to equal 'Tour of Heroe'
+    at World.<anonymous> (D:\AutoProject\angular-cucumber-demo\e2e\src\steps\app.steps.ts:68:58)
+    at step (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:136:27)
+    at Object.next (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:117:57)
+    at fulfilled (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:107:62)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  message: "expected 'Tour of Heroes' to equal 'Tour of Heroe'",
+  showDiff: true,
+  actual: 'Tour of Heroes',
+  expected: 'Tour of Heroe'
+}
+[2020-02-27T18:42:09.144] [INFO] Info - This is information Message
+[2020-02-27T18:42:10.662] [ERROR] Info - AssertionError: expected 'Tour of Heroes' to equal 'Tour of Heroe'
+    at World.<anonymous> (D:\AutoProject\angular-cucumber-demo\e2e\src\steps\app.steps.ts:68:58)
+    at step (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:136:27)
+    at Object.next (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:117:57)
+    at fulfilled (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:107:62)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  message: "expected 'Tour of Heroes' to equal 'Tour of Heroe'",
+  showDiff: true,
+  actual: 'Tour of Heroes',
+  expected: 'Tour of Heroe'
+}
+[2020-02-27T18:42:26.954] [INFO] Info - This is information Message
+[2020-02-27T18:42:27.460] [ERROR] Info - AssertionError: expected 'Tour of Heroes' to equal 'Tour of Heroe'
+    at World.<anonymous> (D:\AutoProject\angular-cucumber-demo\e2e\src\steps\app.steps.ts:68:58)
+    at step (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:136:27)
+    at Object.next (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:117:57)
+    at fulfilled (D:\AutoProject\angular-cucumber-demo\node_modules\tslib\tslib.js:107:62)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  message: "expected 'Tour of Heroes' to equal 'Tour of Heroe'",
+  showDiff: true,
+  actual: 'Tour of Heroes',
+  expected: 'Tour of Heroe'
+}
+[2020-02-27T21:09:11.962] [ERROR] Info - InvalidSelectorError: invalid selector: Unable to locate an element with the xpath expression //a[text()="Tour of Heroes" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[text()="Tour of Heroes"' is not a valid XPath expression.
+  (Session info: chrome=80.0.3987.116)
+  (Driver info: chromedriver=80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}),platform=Windows NT 10.0.17763 x86_64)
+    at Object.checkLegacyResponse (D:\AutoProject\angular-cucumber-demo\node_modules\selenium-webdriver\lib\error.js:546:15)
+    at parseHttpResponse (D:\AutoProject\angular-cucumber-demo\node_modules\selenium-webdriver\lib\http.js:509:13)
+    at D:\AutoProject\angular-cucumber-demo\node_modules\selenium-webdriver\lib\http.js:441:30
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  name: 'InvalidSelectorError',
+  remoteStacktrace: ''
+}
+[2020-02-27T21:31:06.723] [INFO] Info - This is information Message
+[2020-02-29T15:27:02.511] [ERROR] Info - undefined
+[2020-02-29T15:27:41.728] [ERROR] Info - undefined
+[2020-02-29T15:27:56.398] [ERROR] Info - undefined
+[2020-03-01T13:27:23.819] [ERROR] Info - undefined
+[2020-03-01T13:41:32.433] [ERROR] Info - undefined
+
+telnet ip 3306
+[2020-03-06T11:00:28.394] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-06T11:03:36.043] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-06T11:04:09.529] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-06T11:04:25.094] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-06T11:14:21.956] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T14:50:09.923] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T14:59:40.832] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T15:16:50.134] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T15:23:39.709] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T15:27:40.705] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T17:34:59.371] [INFO] Info - Failed to complete the operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:26:44.115] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:26:44.131] [INFO] Info - This is information Message
+[2020-03-07T18:26:54.176] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:27:11.747] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:27:11.751] [INFO] Info - This is information Message
+[2020-03-07T18:28:12.936] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:28:12.940] [INFO] Info - This is information Message
+[2020-03-07T18:28:13.555] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:29:14.589] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T18:29:14.594] [INFO] Info - This is information Message
+[2020-03-07T20:37:58.699] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T20:37:58.701] [INFO] Info - This is information Message
+[2020-03-07T20:38:08.001] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T20:42:36.457] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-07T20:42:36.461] [INFO] Info - This is information Message
+[2020-03-07T20:42:46.749] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:24:32.191] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:24:32.193] [INFO] Info - This is information Message
+[2020-03-08T07:24:38.079] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:26:32.318] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:26:32.319] [INFO] Info - This is information Message
+[2020-03-08T07:26:32.992] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:28:44.528] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:28:44.531] [INFO] Info - This is information Message
+[2020-03-08T07:28:53.349] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:29:45.392] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:29:45.395] [INFO] Info - This is information Message
+[2020-03-08T07:29:56.800] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:31:53.358] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:31:53.360] [INFO] Info - This is information Message
+[2020-03-08T07:32:00.081] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:33:07.644] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T07:33:07.646] [INFO] Info - This is information Message
+[2020-03-08T08:49:22.480] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T08:49:22.504] [INFO] Info - This is information Message
+[2020-03-08T08:49:36.479] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T08:54:09.910] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-08T08:54:09.929] [INFO] Info - This is information Message
+[2020-03-08T08:54:31.387] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-09T16:43:20.628] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-09T16:43:20.631] [INFO] Info - This is information Message
+[2020-03-09T16:43:30.458] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-09T16:43:43.681] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-09T16:43:43.683] [INFO] Info - This is information Message
+[2020-03-09T16:44:26.421] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2020-03-09T16:44:54.946] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:16:12.701] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:16:12.723] [INFO] Info - This is information Message
+[2021-12-15T09:16:13.877] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:20:51.591] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:20:51.595] [INFO] Info - This is information Message
+[2021-12-15T09:20:51.990] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:29:46.612] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
+[2021-12-15T09:29:46.617] [INFO] Info - This is information Message
+[2021-12-15T09:29:46.995] [INFO] Info - Successfully completed operation: GetLabelTest
+No Arg2 : No Value1
+No Arg2 : No Value2
+
