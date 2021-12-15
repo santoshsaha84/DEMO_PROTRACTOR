@@ -1,15 +1,15 @@
 import { browser, by, element, ProtractorBy, By, Locator, promise } from 'protractor';
 import { baseBage } from '../Common/basePage';
-import { Label } from '../Library/ServiceImplementation/Element/Label';
-import { Element } from '../Library/ServiceImplementation/Element/Element';
-import { IElement } from '../Library/Interface/Element/IElement';
-import { ILabel } from '../Library/Interface/Element/ILabel';
+import { Label } from '../Library/ServiceImplementation/element/label';
+import { Element } from '../Library/ServiceImplementation/element/element';
+import { IElement } from '../Library/interface/element/iElement';
+import { ILabel } from '../Library/interface/element/iLabel';
 import TYPES from '../Library/types';
-import{ExcelUtil} from '../Library/ServiceImplementation/UtilService/ExcelTestData';
-import { ITestData } from '../Library/Interface/UtilService/ITestData';
-import { Logger } from '../Library/ServiceImplementation/UtilService/Logger/Logger';
+import{ExcelUtil} from '../Library/ServiceImplementation/UtilService/excelTestData';
+import { ITestData } from '../Library/interface/utilService/iTestData';
+import { Logger } from '../Library/ServiceImplementation/UtilService/logger/logger';
 import { Factory } from '../factory';
-import { MySql } from '../Library/ServiceImplementation/Database/MySqlDatabase';
+import { MySql } from '../Library/ServiceImplementation/database/mysqldatabase';
 import transport from '../../SendEmail';
 
 

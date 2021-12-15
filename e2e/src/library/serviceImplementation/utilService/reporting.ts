@@ -1,4 +1,4 @@
-import { IReporting } from '../../Interface/UtilService/IReporting';
+import { IReporting } from '../../interface/utilService/iReporting';
 import { browser } from 'protractor';
 let world:any;
     export class Reporting implements IReporting{

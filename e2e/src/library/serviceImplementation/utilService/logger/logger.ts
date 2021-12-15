@@ -1,6 +1,6 @@
-import log4js from './Log4js';
-import logger from './Log4js';
-import { ILogger } from 'e2e/src/Library/Interface/UtilService/ILogger';
+import log4js from './log4js';
+import logger from './log4js';
+import { ILogger } from 'e2e/src/Library/interface/utilService/iLogger';
 
 
 

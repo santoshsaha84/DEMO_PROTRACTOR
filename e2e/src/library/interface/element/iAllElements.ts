@@ -1,7 +1,7 @@
-import { Element } from '../../ServiceImplementation/Element/Element';
+import { Element } from '../../ServiceImplementation/element/element';
 import { ElementFinder, Locator } from 'protractor';
-import { AllElements } from '../../ServiceImplementation/Element/AllElements';
-import { IElement } from './IElement';
+import { AllElements } from '../../ServiceImplementation/element/allElements';
+import { IElement } from './iElement';
 
 export interface IAllElement{    
 

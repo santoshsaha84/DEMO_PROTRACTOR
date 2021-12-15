@@ -1,7 +1,7 @@
 
 import { ElementFinder, Locator, browser } from 'protractor';
-import { Element } from '../../ServiceImplementation/Element/Element';
-import { IElement } from '../Element/IElement';
+import { Element } from '../../ServiceImplementation/element/element';
+import { IElement } from '../element/iElement';
 
 
 

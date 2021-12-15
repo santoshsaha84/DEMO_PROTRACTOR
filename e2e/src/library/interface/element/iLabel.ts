@@ -1,4 +1,4 @@
-import { IElement } from './IElement';
+import { IElement } from './iElement';
 
 export interface ILabel extends IElement{
 getLabelText();

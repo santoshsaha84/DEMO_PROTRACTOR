@@ -1,12 +1,12 @@
 import { element,ElementFinder, by } from 'protractor';
-import { Element } from './Element';
-import { ILabel } from '../../Interface/Element/ILabel';
+import { Element } from './element';
+import { ILabel } from '../../interface/element/iLabel';
 import { injectable, inject, named } from 'inversify';
-import { IDriver } from '../../Interface/Driver/IDriver';
+import { IDriver } from '../../interface/driver/iDriver';
 import TYPES, { IDictionary } from '../../types';
 import { Factory } from '../../../factory';
 
-import { OperationResult } from '../../Enums/OperationResult';
+import { OperationResult } from '../../enums/operationResult';
 import {  commonOperations } from '../../../Common/common';
 import { MessageService } from '../../message/message';
 

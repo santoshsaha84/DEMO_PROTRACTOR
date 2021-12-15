@@ -2,13 +2,13 @@ import { Before, Given, Then, When, defineSupportCode } from 'cucumber';
 import { expect } from 'chai';
 
 import { AppPage } from '../pages/app.po';
-import { Driver } from '../Library/ServiceImplementation/Driver/Driver';
+import { Driver } from '../Library/ServiceImplementation/Driver/driver';
 import { browser } from 'protractor';
-import { ExcelUtil } from '../Library/ServiceImplementation/UtilService/ExcelTestData';
-import { IReporting } from '../Library/Interface/UtilService/IReporting';
-import { Reporting } from '../Library/ServiceImplementation/UtilService/Reporting';
+import { ExcelUtil } from '../Library/ServiceImplementation/UtilService/excelTestData';
+import { IReporting } from '../Library/interface/utilService/iReporting';
+import { Reporting } from '../Library/ServiceImplementation/UtilService/reporting';
 import { Factory } from '../factory';
-import { Logger } from '../Library/ServiceImplementation/UtilService/Logger/Logger';
+import { Logger } from '../Library/ServiceImplementation/UtilService/logger/logger';
 
 let page: AppPage;
 

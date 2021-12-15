@@ -1,7 +1,7 @@
-import { IAllElement } from "../../Interface/Element/IAllElements";
+import { IAllElement } from "../../interface/element/iAllElements";
 import { ElementArrayFinder, ElementFinder, Locator, element } from 'protractor';
-import { IElement } from '../../Interface/Element/IElement';
-import { Element } from './Element';
+import { IElement } from '../../interface/element/iElement';
+import { Element } from './element';
 import container from '../../container.config';
 
 export class AllElements implements IAllElement

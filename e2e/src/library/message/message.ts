@@ -1,7 +1,7 @@
 import {String,StringBuilder} from "typescript-string-operations"
-import { OperationResult } from '../Enums/OperationResult';
+import { OperationResult } from '../enums/operationResult';
 import { IDictionary } from '../types';
-import { IDriver } from '../Interface/Driver/IDriver';
+import { IDriver } from '../interface/driver/iDriver';
 
 let dictionary:IDictionary[]=[];
 

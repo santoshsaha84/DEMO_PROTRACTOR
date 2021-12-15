@@ -1,5 +1,5 @@
 import { browser, by, element, ElementFinder } from 'protractor';
-import { ElementFinderService } from '../../ElementFinderService';
+import { ElementFinderService } from '../../elementFinderService';
 import { inject, injectable } from 'inversify';
 
 @injectable()

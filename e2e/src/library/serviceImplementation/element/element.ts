@@ -1,7 +1,7 @@
 import { browser, by, element, ElementFinder, Locator, ElementArrayFinder, WebElement } from 'protractor';
-import { ElementProperties } from './ElementProperties';
-import { IElement } from '../../Interface/Element/IElement';
-import { AllElements } from './AllElements';
+import { ElementProperties } from './elementProperties';
+import { IElement } from '../../interface/element/iElement';
+import { AllElements } from './allElements';
 import { inject, injectable, named } from 'inversify';
 import TYPES from 'e2e/src/Library/types';
 import container from '../../container.config';

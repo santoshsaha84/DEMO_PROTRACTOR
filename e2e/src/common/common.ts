@@ -1,5 +1,5 @@
 import { IDictionary } from '../Library/types';
-import { OperationResult } from '../Library/Enums/OperationResult';
+import { OperationResult } from '../library/enums/operationResult';
 import { Factory } from '../factory';
 
 export class commonOperations{

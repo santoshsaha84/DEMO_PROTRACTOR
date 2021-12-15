@@ -1,11 +1,11 @@
 import TYPES from './Library/types';
-import { IReporting } from './Library/Interface/UtilService/IReporting';
-import { Reporting } from './Library/ServiceImplementation/UtilService/Reporting';
-import { ITestData } from './Library/Interface/UtilService/ITestData';
+import { IReporting } from './Library/interface/utilService/iReporting';
+import { Reporting } from './Library/ServiceImplementation/UtilService/reporting';
+import { ITestData } from './Library/interface/utilService/iTestData';
 import { Iconfig } from './AppConfig/Iconfig';
-import { ExcelUtil } from './Library/ServiceImplementation/UtilService/ExcelTestData';
-import { ILogger } from './Library/Interface/UtilService/ILogger';
-import { Logger } from './Library/ServiceImplementation/UtilService/Logger/Logger';
+import { ExcelUtil } from './Library/ServiceImplementation/UtilService/excelTestData';
+import { ILogger } from './Library/interface/utilService/iLogger';
+import { Logger } from './Library/ServiceImplementation/UtilService/logger/logger';
 
 
 let config: Iconfig = require('./AppConfig/config.json');

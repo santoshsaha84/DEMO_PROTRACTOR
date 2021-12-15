@@ -2,10 +2,10 @@ import "reflect-metadata";
 
 import { Container, interfaces } from "inversify";
 import TYPES from "./types";
-import { IElement } from './Interface/Element/IElement';
-import { Element } from './ServiceImplementation/Element/Element';
-import { ILabel } from './Interface/Element/ILabel';
-import { Label } from './ServiceImplementation/Element/Label';
+import { IElement } from './interface/element/iElement';
+import { Element } from './ServiceImplementation/element/element';
+import { ILabel } from './interface/element/iLabel';
+import { Label } from './ServiceImplementation/element/label';
 import { ElementFinder, browser } from 'protractor';
 var {setDefaultTimeout} = require('cucumber');
 

@@ -1,8 +1,8 @@
-import { IDriver } from '../Library/Interface/Driver/IDriver';
-import { Driver } from '../Library/ServiceImplementation/Driver/Driver';
+import { IDriver } from '../Library/interface/driver/iDriver';
+import { Driver } from '../Library/ServiceImplementation/Driver/driver';
 import { browser } from 'protractor';
-import { IReporting } from '../Library/Interface/UtilService/IReporting';
-import { Reporting } from '../Library/ServiceImplementation/UtilService/Reporting';
+import { IReporting } from '../Library/interface/utilService/iReporting';
+import { Reporting } from '../Library/ServiceImplementation/UtilService/reporting';
 
 
 

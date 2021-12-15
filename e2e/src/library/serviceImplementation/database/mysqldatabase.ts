@@ -1,4 +1,4 @@
-import { IDatabase } from '../../Interface/Database/IDatabase';
+import { IDatabase } from '../../interface/database/iDatabase';
 import { createConnection } from 'net';
 import { Factory } from '../../../factory';
 var mysql = require('mysql');

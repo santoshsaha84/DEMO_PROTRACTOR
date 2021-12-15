@@ -1,4 +1,4 @@
-import { Logger } from './Logger';
+import { Logger } from './logger';
 
 var log4js = require('log4js'); // inclu
 log4js.configure({

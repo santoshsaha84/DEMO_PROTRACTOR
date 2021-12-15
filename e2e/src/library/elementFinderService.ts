@@ -1,8 +1,8 @@
 import { browser, by, element, ElementFinder, ProtractorBy, Locator } from 'protractor';
-import { IElement } from './Interface/Element/IElement';
+import { IElement } from './interface/element/iElement';
 import container from './container.config';
 import TYPES from './types';
-import { AllElements } from './ServiceImplementation/Element/AllElements';
+import { AllElements } from './ServiceImplementation/element/allElements';
 export class ElementFinderService {
 
    

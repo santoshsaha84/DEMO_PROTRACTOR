@@ -1,4 +1,4 @@
-import { ITestData } from '../../Interface/UtilService/ITestData';
+import { ITestData } from '../../interface/utilService/iTestData';
 
 var XLSX=require('xlsx')
 

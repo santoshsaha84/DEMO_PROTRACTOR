@@ -1,6 +1,6 @@
-import { Element } from '../../ServiceImplementation/Element/Element';
+import { Element } from '../../ServiceImplementation/element/element';
 import { ElementFinder, Locator, ElementArrayFinder, WebElement, WebElementPromise } from 'protractor';
-import { AllElements } from '../../ServiceImplementation/Element/AllElements';
+import { AllElements } from '../../ServiceImplementation/element/allElements';
 
  export interface IElement{
    
